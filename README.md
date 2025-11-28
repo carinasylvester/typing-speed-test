@@ -1,6 +1,6 @@
 # Typing Speed Test
 
-A simple, responsive typing speed test built with vanilla HTML, CSS, and JavaScript.
+A simple, responsive typing speed test built with HTML, CSS, and vanilla JavaScript.
 It measures: 
 
 - WPM (Words Per Minute)
@@ -9,8 +9,6 @@ It measures:
 - Time remaining
 
 Each test uses a randomly selected paragraph from public domain classic novels.
-
----
 
 ## Features
 
@@ -21,7 +19,7 @@ Each test uses a randomly selected paragraph from public domain classic novels.
   - WPM is calculated in real time  
   - CPM updates as you type  
   - Mistakes are tracked and displayed  
-  - Countdown timer (default: **60 seconds**)
+  - Countdown timer (default: 60 seconds)
 
 - **Per-character feedback**  
   - Correct characters are highlighted in green  
@@ -35,9 +33,7 @@ Each test uses a randomly selected paragraph from public domain classic novels.
   The UI adapts down to smaller screens, adjusting font sizes and layout for mobile.
 
 - **No dependencies**  
-  Pure HTML/CSS/JS — no frameworks, no build step.
-
----
+  Pure HTML/CSS/JS - no frameworks, no build step.
 
 ## Running the Project locally
 
@@ -53,8 +49,6 @@ python -m http.server 8000
 # then open http://localhost:8000 in your browser
 ```
 
----
-
 ## Potential future improvements
 
 - Difficulty levels (short vs long paragraphs)
@@ -62,8 +56,6 @@ python -m http.server 8000
 - Dark mode toggle
 - Stats history (best WPM, average WPM, etc.)
 - Option to paste custom text
-
----
 
 ## Text Sources
 
