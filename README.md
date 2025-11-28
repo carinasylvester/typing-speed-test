@@ -1,5 +1,7 @@
 # Typing Speed Test
 
+![Screenshot of typing speed testing app UI](preview.png)
+
 A simple, responsive typing speed test built with HTML, CSS, and vanilla JavaScript.
 It measures: 
 
